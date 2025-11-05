@@ -3,11 +3,11 @@
   <img src="https://img.shields.io/badge/VFX-Compositing-blueviolet?style=for-the-badge&logo=adobecreativecloud&logoColor=white" width="250" alt="VFX Logo"/>
 </p>
 
-<h1 align="center">✨ VFX Compositing Showcase ✨</h1>
+<h1 align="center">✨ VFX Compositor ✨</h1>
 
 <p align="center">
   <b>Where visual storytelling meets invisible artistry.</b><br>
-  <i>Created by Mad • VFX Compositor & Nuke Artist</i>
+  <i>Created by YourGitbuddy • VFX Compositor & Nuke Artist</i>
 </p>
 
 
@@ -124,7 +124,7 @@ These are the core techniques behind every polished VFX shot:
 
 ## 👨‍🎨 About Me
 
-Hi there! I’m **Mad**, a passionate **VFX Compositor** who thrives on merging reality with imagination.  
+Hi there! I’m **YourGitbuddy [Mahesh Gaikwad]**, a passionate **VFX Compositor** who thrives on merging reality with imagination.  
 I use **Foundry Nuke** to transform layers of footage, renders, and effects into cinematic visuals.
 
 ### 🧩 My Core Strengths
