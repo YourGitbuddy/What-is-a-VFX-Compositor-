@@ -45,8 +45,6 @@ This project explains **the role of a compositor** using diagrams, workflow brea
 VFX compositing is the final step in the visual effects pipeline.  
 Compositors ensure that every layer — 3D render, green screen footage, background, and special effects — fits together **believably**.
 
-![Compositing Breakdown](https://img.shields.io/badge/Compositing_Breakdown-Diagram-blueviolet?style=for-the-badge&logo=nuke&logoColor=white)
-
 ---
 
 ## 🎞️ What Does a Compositor Do?
@@ -55,9 +53,6 @@ Compositors ensure that every layer — 3D render, green screen footage, backgro
 - Perform **rotoscoping**, **keying**, **tracking**, **color correction**, and **cleanup**  
 - Match CG lighting to real-world footage  
 - Add atmospheric effects (fog, dust, motion blur, depth of field)
-
-![Workflow Diagram](https://img.shields.io/badge/Compositing_Workflow-Visual_Overview-8A2BE2?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
 ---
 
 ## 🧰 Tools Used
