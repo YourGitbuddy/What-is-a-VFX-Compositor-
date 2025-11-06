@@ -33,7 +33,7 @@ This project explains **the role of a compositor** using diagrams, workflow brea
 2. [What Does a Compositor Do?](#what-does-a-compositor-do)
 3. [Tools Used](#tools-used)
 4. [Compositing Pipeline](#compositing-pipeline)
-5. [Before & After Examples](#before--after-examples)
+5. [Examples of Compositing in Movies](#example-of-Compositing-in-movies)
 6. [Key Techniques](#key-techniques)
 7. [Gallery](#gallery)
 8. [About Me](#about-me)
