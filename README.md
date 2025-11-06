@@ -59,11 +59,12 @@ Compositors ensure that every layer — 3D render, green screen footage, backgro
 
 | Software | Purpose |
 |-----------|----------|
-| ![Nuke](https://img.shields.io/badge/Nuke-Node_Based_Compositing-yellow?style=for-the-badge&logo=nuke&logoColor=black) | Industry-standard compositing tool |
-| ![Mocha Pro](https://img.shields.io/badge/Mocha_Pro-Tracking_%26_Roto-orange?style=for-the-badge&logo=adobe&logoColor=white) | Planar tracking & rotoscoping |
-| ![After Effects](https://img.shields.io/badge/After_Effects-Motion_Graphics-purple?style=for-the-badge&logo=adobeaftereffects&logoColor=white) | 2D motion graphics & compositing |
-| ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-Color_Grading-0078D7?style=for-the-badge&logo=davinciresolve&logoColor=white) | Professional color correction |
-| ![Photoshop](https://img.shields.io/badge/Photoshop-Matte_Painting-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | Cleanup, textures, and paint |
+| [![Nuke](https://img.shields.io/badge/Nuke-Node_Based_Compositing-yellow?style=for-the-badge&logo=nuke&logoColor=black)](https://downloads.foundry.com/nuke) | Industry-standard compositing tool |
+| [![Mocha Pro](https://img.shields.io/badge/Mocha_Pro-Tracking_%26_Roto-orange?style=for-the-badge&logo=adobe&logoColor=white)](https://borisfx.com/products/mocha-pro/) | Planar tracking & rotoscoping |
+| [![After Effects](https://img.shields.io/badge/After_Effects-Motion_Graphics-purple?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html?ref=jscripthome.com) | 2D motion graphics & compositing |
+| [![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-Color_Grading-0078D7?style=for-the-badge&logo=davinciresolve&logoColor=white)](https://www.blackmagicdesign.com/in/products/davinciresolve) | Professional color correction |
+| [![Photoshop](https://img.shields.io/badge/Photoshop-Matte_Painting-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) | Cleanup, textures, and paint |
+
 
 ---
 
